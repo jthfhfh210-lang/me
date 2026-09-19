@@ -1,0 +1,8 @@
+{
+  "name": "Remix تعرف على الشيعة | Know About Shia",
+  "description": "منصة ثقافية وإرثية تعريفية بفكر مذهب أهل البيت عليهم السلام، ونهضة الإمام الحسين وكربلاء المقدسة، معالمها وأصولها الفكرية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

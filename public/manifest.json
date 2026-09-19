@@ -1,0 +1,41 @@
+{
+  "id": "/",
+  "name": "تعرف على الشيعة | كربلاء المقدسة",
+  "short_name": "الشيعة",
+  "description": "تطبيق إسلامي تعريفي شامل بفكر أهل البيت عليهم السلام، كربلاء المقدسة، الزيارة بالإنابة والأرشيف المتحفي الفائق.",
+  "theme_color": "#0c0a09",
+  "background_color": "#0c0a09",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "scope": "/",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": ["books", "education", "lifestyle"],
+  "icons": [
+    {
+      "src": "/app-icon.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

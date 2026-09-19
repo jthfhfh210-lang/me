@@ -1,0 +1,14 @@
+{
+  "appId": "com.knowaboutshia.karbala",
+  "appName": "تعرف على الشيعة",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "buildOptions": {
+      "keystorePath": "",
+      "releaseType": "APK"
+    }
+  }
+}
